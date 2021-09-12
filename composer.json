@@ -1,11 +1,11 @@
 {
-  "name": "pantheon-quicksilver/quicksilver-template",
-  "description": "A template for creating new Quicksilver scripts installed via Composer.",
-  "homepage": "https://github.com/pantheon-quicksilver/quicksilver-template",
+  "name": "pantheon-quicksilver/wp-network-search-replace",
+  "description": "Run Search and Replace on WordPress Network sites",
+  "homepage": "https://github.com/pantheon-quicksilver/wp-network-search-replace",
   "authors": [],
   "type": "quicksilver-script",
   "require": {
-    "composer/installers": "~1.0"
+    "composer/installers": "^1 || ^2"
   },
   "license": "MIT"
 }
